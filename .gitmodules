@@ -1,3 +1,0 @@
-[submodule "CVE-2024-6387-Vulnerability-Checker"]
-	path = CVE-2024-6387-Vulnerability-Checker
-	url = https://github.com/senhasegura/identity-threat-labs
